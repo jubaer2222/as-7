@@ -1,0 +1,56 @@
+[
+    {
+      "recipe_img": "https://letsbemerry.com/wp-content/uploads/2018/01/colorful-vegan-salad-1150x767.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Vegetable Curry",
+      "short_description": "A fragrant curry loaded with mixed vegetables.",
+      "ingredients": ["300 g mixed vegetables", "200 ml coconut milk", "100 g spinach", "150 g potatoes"],
+      "time": "40 min",
+      "cal": "280 calories"
+    },
+    {
+      "recipe_img": "https://www.wholefoodsmagazine.com/ext/resources/2018/10/Consumer-Bulletin.jpg?t=1673982003&width=1080",
+      "recipe_id": 2,
+      "recipe_name": "Shrimp Scampi",
+      "short_description": "Juicy shrimp sautéed with garlic, butter, and white wine.",
+      "ingredients": ["400 g shrimp", "250 g linguine pasta", "100 ml white wine", "50 g butter"],
+      "time": "20 min",
+      "cal": "380 calories"
+    },
+    {
+      "recipe_img": "https://thumbs.dreamstime.com/b/assorted-indian-food-set-wooden-background-dishes-appetisers-indeed-cuisine-rice-lentils-paneer-samosa-spices-mas-masala-179640947.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy risotto cooked with flavorful mushrooms, Parmesan cheese.",
+      "ingredients": ["300 g Arborio rice", "200 g mushrooms", "1 L vegetable broth", "50 g Parmesan cheese"],
+      "time": "35 min",
+      "cal": "320 calories"
+    },
+    {
+      "recipe_img": "https://vegnews.com/media/W1siZiIsIjMwNTgwL1ZlZ05ld3MuV0ZQQi5pU3RvY2suanBnIl0sWyJwIiwiY3JvcF9yZXNpemVkIiwiMjA0MXgxMjA3KzMrMSIsIjE2MDB4OTQ2XiIseyJmb3JtYXQiOiJqcGcifV0sWyJwIiwib3B0aW1pemUiXV0/VegNews.WFPB.iStock.jpg?sha=2fd0cc621e91fa95",
+      "recipe_id": 4,
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Tender salmon fillets seasoned with herbs .",
+      "ingredients": ["500 g salmon fillets", "50 g olive oil", "2 lemons", "fresh herbs"],
+      "time": "15 min",
+      "cal": "290 calories"
+    },
+    {
+      "recipe_img": "https://img.freepik.com/premium-photo/vegan-lunch-bowl-with-rice-broccoli-sweet-potato-rice-salad-top-view-vegan-food-concept_79830-2562.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy and comforting risotto infused with earthy mushrooms.",
+      "ingredients": ["300 g Arborio rice", "200 g mushrooms", "1 onion (finely chopped)", "1 L vegetable broth"],
+      "preparing_time": "40 min",
+      "calories": "380 calories"
+    },
+    {
+      "recipe_img": "https://letsbemerry.com/wp-content/uploads/2018/01/colorful-vegan-salad-1150x767.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Caprese Salad",
+      "short_description": "A classic Italian salad made with fresh tomatoes.",
+      "ingredients": ["500 g tomatoes", "250 g fresh mozzarella", "100 ml balsamic glaze", "fresh basil leaves"],
+      "time": "10 min",
+      "cal": "220 calories"
+    }
+  ]
