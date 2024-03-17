@@ -52,7 +52,7 @@ const Header = () => {
       <p className="pt-9">Uncover a bespoke culinary workshop, crafted just for you, offering personalized guidance and <br /> gourmet expertise. Elevate your cooking skills now!</p>
       </div>
       <div className="pt-12 sm:flex-col">
-      <button className="btn bg-[#0BE58A] border-none rounded-full px-6 font-semibold text-xl mr-6">Explore Now</button> <button></button>
+      <button className="btn bg-[#0BE58A] border-none rounded-full px-4 font-semibold text-lg mr-6">Explore Now</button> <button></button>
       <button className="btn glass border-none rounded-full px-6 text-white  font-semibold text-xl">Our Feedback</button> <button></button>
       </div>
 </section>
