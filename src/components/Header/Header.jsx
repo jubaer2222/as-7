@@ -1,4 +1,4 @@
-
+import { IoPeopleCircleSharp } from "react-icons/io5";
 
 const Header = () => {
     return (
@@ -37,12 +37,7 @@ const Header = () => {
 <input  type="text" placeholder="Search" className="input  bg-[#0D150B2B] border-none w-24 md:w-auto" />
 
 <div className="">
-<div tabIndex={0} role="button" className="btn btn-ghost btn-circle avatar">
-<div className="w-10 rounded-full">
-<img alt="Tailwind CSS Navbar component" src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />
-</div>
-</div>
-
+<p className=" text-5xl"><IoPeopleCircleSharp /></p>
 </div>
 </div>
 
@@ -54,9 +49,9 @@ const Header = () => {
 
       <div className="text-white text-center">
       <h3 className="font-bold text-5xl  pt-32 ">Discover an exceptional cooking <br /> class tailored for you!</h3>
-      <p className="pt-9">Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding <br /> problems to become an exceptionally well world-class Programmer.</p>
+      <p className="pt-9">Uncover a bespoke culinary workshop, crafted just for you, offering personalized guidance and <br /> gourmet expertise. Elevate your cooking skills now!</p>
       </div>
-      <div className="pt-12 ">
+      <div className="pt-12 sm:flex-col">
       <button className="btn bg-[#0BE58A] border-none rounded-full px-6 font-semibold text-xl mr-6">Explore Now</button> <button></button>
       <button className="btn glass border-none rounded-full px-6 text-white  font-semibold text-xl">Our Feedback</button> <button></button>
       </div>
